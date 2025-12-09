@@ -1,0 +1,12 @@
+title: Sequel Corporation Docs
+description: Documentation for Sequel Corporation
+
+remote_theme: just-the-docs/just-the-docs
+
+url: "https://docs.sequelcorporation.co.uk"
+baseurl: ""
+
+# Optional: links that show up at the top right
+nav_external_links:
+  - title: "Sequel on GitHub"
+    url: "https://github.com/marsate"
